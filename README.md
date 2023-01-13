@@ -6,7 +6,7 @@
 <div align="center">
  <br>
 <a href="https://www.linkedin.com/in/mariana-ceotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:luanaftrevizani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-E60023?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:marianaceott@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-E60023?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
  
 <div style="display: inline_block"><br>
