@@ -27,6 +27,12 @@
   &nbsp;
   ![Typescript](https://img.shields.io/badge/Typescript-35495E?style=for-the-badge&logo=typescript&logoColor=white)
   &nbsp;
+  ![Mysql](https://img.shields.io/badge/Mysql-E34F26?style=for-the-badge&logo=mysql&logoColor=white)
+  &nbsp;
+![AWS](https://img.shields.io/badge/Aws-61DAFB?style=for-the-badge&logo=aws&logoColor=35495E)
+  &nbsp;
+![FireBase](https://img.shields.io/badge/FireBase-E34F26?style=for-the-badge&logo=firebase&logoColor=35495E)
+  &nbsp;
 </div>
 
 
@@ -48,14 +54,9 @@
 
 <div style="display: inline_block"><br>
 </div>
-<div><h2>Currently Studying: </h2>
+<div>
 
-![Mysql](https://img.shields.io/badge/Mysql-E34F26?style=for-the-badge&logo=mysql&logoColor=white)
-  &nbsp;
-![AWS](https://img.shields.io/badge/Aws-61DAFB?style=for-the-badge&logo=aws&logoColor=35495E)
-  &nbsp;
-![FireBase](https://img.shields.io/badge/FireBase-E34F26?style=for-the-badge&logo=firebase&logoColor=35495E)
-  &nbsp;
+
 </div>
 </div>
    
