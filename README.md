@@ -1,5 +1,5 @@
 <div align= "left">
-  <h1>Hi, i'm Mariana <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+  <h1>Olá, sou Mariana Ceotto <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 </div>
 
 
